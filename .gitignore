@@ -1,0 +1,6 @@
+fileBatchDelete
+fileBatchDelete.exe
+fileBatchDelete.pid
+fileBatchDelete\.*
+jstmp/*
+/.idea
