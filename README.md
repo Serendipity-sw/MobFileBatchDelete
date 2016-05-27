@@ -1,2 +1,2 @@
 # MobFileBatchDelete
-    文件 文件解析 
+    记事本号码文件解析工具
